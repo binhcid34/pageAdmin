@@ -137,6 +137,7 @@ export default class MainSlider extends Component {
                       <a id="tables" href="#">
                         <FontAwesomeIcon icon = {faTable}/>
                         <span> Tables </span>
+
                       </a>
                       <ul className="list-unstyled">
                         <li>
